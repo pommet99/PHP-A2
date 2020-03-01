@@ -1,6 +1,3 @@
-Bonjour, 
-Voici les excercices de la semaine en plus du projet de la semaine (rendu.php, personnage.php et combat.php et ma base de donnée)
-Cordialement, 
+#PHP
 
-Prameet Manraj 
-A2DW2
+School Excercices in PHP 
